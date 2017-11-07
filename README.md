@@ -7,9 +7,9 @@ Please prepare a discussion of three differences and three similarities between 
 ## 2. Analyze the time-series data in `power-data.csv`.
 Take a look at the data provided in `power-data.csv`.  What insights can you provide me with this data set?  For example:
 
-  - Exploratory data analysis
-  - Means, variations and trends of each time series
-  - Relationships between the time serieses
+  - Exploratory data analysis can give you some rough ideas.
+    - Means, variations and trends of each time series
+    - Relationships between the objects
   - If I told you that RPDUs are each connected to one of the UPSs, how could you use the time-series data to diagnose those relationships?
 
 If possible, prepare your work in a reproducible format (like an R or Jupyter notebook) with comments and notes, so we can discuss your process and choice of tools, packages, and methods.
