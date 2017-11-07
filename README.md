@@ -7,4 +7,5 @@ Here is a small set of interview questions to assess your technical ability, tho
   - Means, variations and trends of each time series
   - Relationships between the time serieses
   - If I told you that RPDUs are each connected to one of the PDUs, how could you use the time-series data to diagnose those relationships?
+
 If possible, prepare your work in a reproducible format (like an R or Jupyter notebook) with comments and notes, so we can discuss your process and choice of tools, packages, and methods.
