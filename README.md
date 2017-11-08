@@ -2,7 +2,7 @@
 Here are three interview questions to assess your technical ability, thought processes, and data science and analytical awareness.  Feel free to use whatever resources you need to answer theses questions (textbooks, articles, programming langugages, and packages). You answers don't need to be perfect or 100% complete, but you should be prepared to describe your process and sources.
 
 ## 1. Compare and contrast business and industrial analytics 
-Please prepare a discussion of three differences and three similarities between business analytics & business intelligence and industrial applications of data science and machine learning.  Choose an industrial/IoT application to highlight these characteristics (does not have to be a Schneider Electric specific example).
+Please prepare a discussion of three differences and three similarities between business and industrial applications of data science and machine learning.  Choose an industrial/IoT application to highlight these characteristics (does not have to be a Schneider Electric specific example).
 
 ## 2. Analyze the time-series data in `power-data.csv`.
 Take a look at the data provided in `power-data.csv`.  What insights can you provide me with this data set?  For example:
